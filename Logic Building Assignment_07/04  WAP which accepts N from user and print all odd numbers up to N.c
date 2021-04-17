@@ -4,6 +4,7 @@
 void Odd_Display(int iNo)
 {
     int i=0,ONo=0;
+
     for(i=1;i<=iNo;i++)
     {
         if(i%2!=0)

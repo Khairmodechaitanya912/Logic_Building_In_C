@@ -9,6 +9,7 @@ void Display(int iNo)
     {
         printf(" %d",i);
     }
+
     printf("\n");
 
     return ;

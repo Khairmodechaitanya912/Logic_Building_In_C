@@ -19,6 +19,7 @@ int main()
 
     printf("\n Enter Number = ");
     scanf("%d",&iValue);
+
     printf("\n");
 
     Pattern(iValue);
