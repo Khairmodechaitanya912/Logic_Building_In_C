@@ -24,6 +24,7 @@ int Factorial_Diff(int iNo)
 
     return EFact-OFact;
 }
+
 int main()
 {
     int iValue=0,iRet=0;

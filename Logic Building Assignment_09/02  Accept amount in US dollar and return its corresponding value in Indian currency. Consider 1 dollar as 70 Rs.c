@@ -9,6 +9,7 @@ int Dollar_To_INR(int iNo)
 
     return Rs;
 }
+
 int main()
 {
     int iValue=0,iRet=0;

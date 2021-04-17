@@ -17,8 +17,10 @@ int Odd_Factorial(int iNo)
             Ofact=Ofact*iNo;
         }
     }
+
     return Ofact;
 }
+
 int main()
 {
     int iValue=0,iRet=0;
