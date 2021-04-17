@@ -22,6 +22,7 @@ void Non_Fact(int iNo)
     printf("\n ");
 
     return ;
+
 }
 int main()
 {

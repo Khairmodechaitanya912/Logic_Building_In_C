@@ -21,6 +21,7 @@ int Mult_Fact(int iNo)
     }
 
     return Mult;
+
 }
 int main()
 {

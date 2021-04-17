@@ -17,6 +17,7 @@ int Sum_Non_Fact(int iNo)
             Sum=Sum+i;
         }
     }
+
     return Sum;
 }
 int main()

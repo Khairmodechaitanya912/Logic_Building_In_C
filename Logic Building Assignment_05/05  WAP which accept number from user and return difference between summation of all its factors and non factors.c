@@ -21,6 +21,7 @@ int Fact_Diff(int iNo)
             FSum=FSum+i;
         }
     }
+
     return (FSum-NfSum);
 }
 int main()
