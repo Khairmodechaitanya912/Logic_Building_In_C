@@ -14,8 +14,10 @@ int Factorial(int iNo)
     {
         fac=fac*iNo;
     }
+
     return fac;
 }
+
 int main()
 {
     int iValue=0;
