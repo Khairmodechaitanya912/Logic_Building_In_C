@@ -2,6 +2,7 @@
 #include<conio.h>
 
 typedef int BOOL;
+
 #define TRUE 1
 #define FALSE 0
 
@@ -35,7 +36,7 @@ int main()
     {
        printf("\n Not Divisible by 5");
     }
-    getch();
 
+    getch();
     return 0;
 }

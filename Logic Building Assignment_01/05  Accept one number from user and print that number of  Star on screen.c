@@ -9,6 +9,7 @@ void Accept(int iNo)
     {
         printf("\n * ");
     }
+
     return ;
 }
 

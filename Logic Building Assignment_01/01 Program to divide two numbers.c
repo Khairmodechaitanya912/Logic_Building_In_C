@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 
 int Divide(int iNo1,int iNo2)
 {
@@ -22,6 +23,6 @@ int main()
 
    printf("\n Division is %d \n",iRet);
 
+   getch();
    return 0;
-
 }
