@@ -4,6 +4,7 @@
 void PrintEven(int iNo)
 {
     int i=0;
+
     if(iNo<=0)
     {
         return ;
@@ -15,7 +16,9 @@ void PrintEven(int iNo)
             printf("\n %d",i);
         }
     }
+
     printf("\n");
+
     return ;
 }
 int main()

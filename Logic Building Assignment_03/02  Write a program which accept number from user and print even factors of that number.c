@@ -9,7 +9,9 @@ void Display_Factor(int iNo)
     {
         iNo = -iNo;
     }
+
     printf("\n Factor of %d is ",iNo);
+
     for(i=1;i<=iNo/2;i++)
     {
         if(iNo%i==0)
@@ -17,6 +19,8 @@ void Display_Factor(int iNo)
             printf("\n %d ",i);
         }
     }
+
+    return ;
 }
 int main()
 {

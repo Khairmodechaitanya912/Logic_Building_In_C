@@ -9,7 +9,9 @@ void Display_Even_Factor(int iNo)
     {
         iNo=-iNo;
     }
+
     printf("\n Even Factor of %d is ",iNo);
+
     for(i=1;i<=iNo/2;i++)
     {
         if(iNo%i==0&&i%2==0)

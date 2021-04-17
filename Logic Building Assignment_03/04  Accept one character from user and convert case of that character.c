@@ -5,12 +5,18 @@ void Display_Convert(char CValue)
 {
     if(CValue>='a'&&CValue<='z')
     {
+
         printf("\n its converted is = %c \n",CValue-32);
+
     }
     else if(CValue>='A'&& CValue<='Z')
     {
+
         printf("\n its converted is = %c \n",CValue+32);
+
     }
+
+    return ;
 }
 int main()
 {

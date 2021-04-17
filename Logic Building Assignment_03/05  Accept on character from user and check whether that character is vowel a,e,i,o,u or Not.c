@@ -16,6 +16,8 @@ BOOL ChkVowel(char CValue)
    {
        return FALSE;
    }
+
+   return ;
 }
 int main()
 {
