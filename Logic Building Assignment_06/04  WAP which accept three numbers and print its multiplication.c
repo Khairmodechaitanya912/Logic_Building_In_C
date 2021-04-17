@@ -39,6 +39,7 @@ int Multiply(int iNo1,int iNo2,int iNo3)
     }
 
     return Mult;
+
 }
 int main()
 {

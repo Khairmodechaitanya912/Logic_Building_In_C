@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+
 float Percentage(float iNo1,float iNo2)
 {
     float per;
@@ -8,6 +9,7 @@ float Percentage(float iNo1,float iNo2)
      per=(iNo2/iNo1)*100.0;
 
      return per;
+
 }
 int main()
 {

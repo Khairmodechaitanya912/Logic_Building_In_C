@@ -16,6 +16,7 @@ BOOL Chk_Equal(int BNo1,int BNo2)
     {
         return FALSE;
     }
+
 }
 int main()
 {
