@@ -19,11 +19,15 @@ void School_Std(int iStd)
     {
         printf("\n Total Fee Of Fourth Standard is :- 23450 \n");
     }
+
+    return ;
 }
 int main()
 {
     int std;
+
     up:
+
     printf("\n Enter School standard = ");
     scanf("%d",&std);
 

@@ -6,6 +6,7 @@ float Calculate_Bill(float iAmount)
     if(iAmount<=500)
     {
         printf("\n Here No Discount is APPLY...!!");
+
         return iAmount;
     }
     else if(iAmount<=1500&&iAmount>500)
