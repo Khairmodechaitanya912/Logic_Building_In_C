@@ -9,6 +9,7 @@ void Display(int iNo)
         printf("\n * ");
         iCnt++;
     }
+
     return ;
 }
 

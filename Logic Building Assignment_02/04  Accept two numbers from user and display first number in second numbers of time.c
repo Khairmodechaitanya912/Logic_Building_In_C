@@ -4,11 +4,14 @@
 void Display(int iNo,int iFrequency)
 {
     int i=0;
+
     printf("\n Output is =");
+
     for(i=0;i<iFrequency;i++)
     {
         printf("  %d   ",iNo);
     }
+
     return ;
 }
 int main()

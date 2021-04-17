@@ -8,6 +8,7 @@ void Display(int iNo)
         printf("\n * ");
         iNo--;
     }
+
     return ;
 }
 int main()

@@ -11,6 +11,8 @@ int Display(iNo)
     {
         printf("\n Demo...!\n ");
     }
+
+    return ;
 }
 int main()
 {
