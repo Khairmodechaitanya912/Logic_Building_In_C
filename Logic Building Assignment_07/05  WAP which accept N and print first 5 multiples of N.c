@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
 
-
 void Multiple_Display(int iNo)
 {
     int i=0,Mult=0;
@@ -16,6 +15,7 @@ void Multiple_Display(int iNo)
 
     return ;
 }
+
 int main()
 {
     int iValue=0;

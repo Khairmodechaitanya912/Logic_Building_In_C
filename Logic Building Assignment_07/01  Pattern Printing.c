@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 
+
 int Pattern(int iNo)
 {
     int i=1;
