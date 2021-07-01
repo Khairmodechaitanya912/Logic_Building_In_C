@@ -2,6 +2,7 @@
 
         Input : iRow = 6 iCol = 6
 
+
         Output : * * * * * *
                  *       * *
                  *     *   *
@@ -57,6 +58,7 @@ void Pattern(int iRow , int iCol)
 
     return ;
 }
+
 
 int main()
 {
